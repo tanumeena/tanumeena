@@ -22,6 +22,7 @@ I am now building a more safety-focused portfolio around reliability, robustness
 | [Medical Insurance Cost Prediction](https://github.com/tanumeena/medical-insurance-tanu) | Flask ML app for predicting insurance charges from tabular data | Bias risk, explainability, regression error, data quality, misuse risk |
 | [Heart Failure Prediction](https://github.com/tanumeena/heart-failure-) | Healthcare ML notebook for clinical risk prediction | Precision/recall tradeoffs, false-negative danger, calibration, responsible deployment |
 | [LangGraph Learning Lab](https://github.com/tanumeena/langgraph) | Early exploration of graph-based LLM workflows | Workflow control, prompt handling, evaluation opportunities, agentic reliability |
+| [LLM Safety Evaluation Playground](https://github.com/tanumeena/tanumeena/tree/main/llm-safety-evaluation-playground) | Beginner no-API tests for hallucination, prompt injection, refusal boundaries, factuality, and bias reflection | Direct technical AI safety exploration through evaluation design |
 
 ## Technical Skills
 
@@ -48,4 +49,3 @@ This improves competitiveness but cannot guarantee selection.
 - Email: tanumeena193@gmail.com
 - LinkedIn: https://linkedin.com/in/tanumeena
 - GitHub: https://github.com/tanumeena
-
