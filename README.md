@@ -1,6 +1,6 @@
 # Tanu Meena
 
-Applied ML and computer vision candidate transitioning toward technical AI safety.
+Applied ML/CV | Model Evaluation | Responsible AI | AI Safety Learner
 
 I am completing a B.E. in Artificial Intelligence and Data Science at MBM University, Jodhpur. My final semester examinations are completed, my 8th semester result is pending, and I currently have two active backlogs. My strongest verified work is in applied machine learning, computer vision, healthcare prediction, Flask/FastAPI-based AI applications, and model evaluation.
 
@@ -13,6 +13,7 @@ I am now building a more safety-focused portfolio around reliability, robustness
 - AI reliability and robustness
 - Responsible deployment of prediction systems
 - Beginner technical AI safety, especially evaluation-oriented safety work
+- Open-source readiness through documentation, testing, and reproducible project structure
 
 ## Selected Projects
 
