@@ -23,6 +23,7 @@ I am now building a more safety-focused portfolio around reliability, robustness
 | [Heart Failure Prediction](https://github.com/tanumeena/heart-failure-) | Healthcare ML notebook for clinical risk prediction | Precision/recall tradeoffs, false-negative danger, calibration, responsible deployment |
 | [LangGraph Learning Lab](https://github.com/tanumeena/langgraph) | Early exploration of graph-based LLM workflows | Workflow control, prompt handling, evaluation opportunities, agentic reliability |
 | [LLM Safety Evaluation Playground](https://github.com/tanumeena/tanumeena/tree/main/llm-safety-evaluation-playground) | Beginner no-API tests for hallucination, prompt injection, refusal boundaries, factuality, and bias reflection | Direct technical AI safety exploration through evaluation design |
+| [AI Safety LLM Evaluation Research](https://github.com/tanumeena/tanumeena/tree/main/ai-safety-llm-evaluation-research) | Independent research-style prototype for evaluating reliability and risk patterns in high-stakes LLM responses | Rubric-based LLM evaluation, risk taxonomy, source awareness, uncertainty, and high-stakes caution |
 
 ## Technical Skills
 
